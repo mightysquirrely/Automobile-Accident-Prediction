@@ -10,13 +10,13 @@ Regression and Decision Tree algorithms which can predict whether
 certain data points and information can lead to traffic accidents with an
 accuracy of 77%.
 
-**Problem Statement:  **
+**Problem Statement:**
 Automobile accidents are a part of society today. It is reasonable to believe if there is a way to predict
 what causes their increased likelihood, the overall society would benefit. The goal of this project is to
 look at connections in accident frequency for automobiles based on particular factors such the color of
 the automobile or the time of the year.
 
-**Proposed Solution:  **
+**Proposed Solution:**
 Perform exploratory analysis and predictive modeling from a large dataset of a Montgomery county,
 Maryland. Insurance agencies, automobile dealerships and manufacturers can benefit in knowing what
 factors correlate with accidents occurring in automobiles.
